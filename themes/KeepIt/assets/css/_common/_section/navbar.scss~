@@ -3,7 +3,7 @@
 
   .header-logo a{
     padding: 0 ;
-    font-size: 24px;
+    font-size: 20px;
 
     i{
       line-height: 2em;
