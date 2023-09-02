@@ -1,0 +1,197 @@
+baseURL = "https://ayushdeep.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Ayush Deep"
+theme = "KeepIt"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+disqusShortname = "yourdiscussshortname"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+# Permalinks
+[Permalinks]
+   posts = "/:year/:filename/"
+
+# Menu Configuration
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "CV"
+    url = "/files/Deep_Ayush_Master_CV.pdf"
+    weight = 3
+
+  [[menu.main]]
+    name = "Publications"
+    url = "https://scholar.google.com/citations?user=LznJB18AAAAJ%26&user=LznJB18AAAAJ"
+    weight = 2
+
+  [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 4
+
+[params]
+    since = 2023
+    author = "Ayush Deep"               # Author's name
+    subtitle = "MSc Student in Biology at ETHZ"       # Subtitle
+    cdn_url = ""           # Base CDN URL
+    home_mode = "" # post or other
+    dateFormatToUse = "" # set date format, default "2 January 2006"
+    
+    google_verification = ""
+    bing_verification = ""
+    yandex_verification = ""
+    pinterest_verification = ""
+    baidu_verification = ""
+
+    #avatar = "/images/avatar.jpeg"
+    socialShare = true
+
+    description = "" # site description
+    keywords = "" # site keywords
+
+    license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    defaultPage = "/"
+
+[params.gravatar]
+    email = "ayushdeep1997@gmail.com"   #uncomment and insert your email address to use gravatar
+
+
+[params.social]
+    #GitHub = "xxxx"
+    Linkedin = "ayush-deep-8b174a105"
+    Twitter = "a_d718"
+    Instagram = "a_d718"
+    Email   = "aydeep@student.ethz.ch"
+    #Facebook = "xxxx"
+    #Telegram = "xxxx"
+    #Medium = "xxxx"
+    #Gitlab = "xxxx"
+    #Youtubelegacy = "@0870003343"
+    #Youtubecustom = "@0870003343"
+    Youtubechannel = "@0870003343"
+    #Tumblr ="xxxx"
+    #Quora = "xxxx"
+    #Keybase = "xxxx"
+    #Pinterest = "xxxx"
+    #Reddit = "xxxx"
+    #Codepen = "xxxx"
+    #Bitbucket = "xxxx"
+    #Stackoverflow = "xxxxx"
+    #Weibo = "xxxx"
+    #Odnoklassniki = "xxxx"
+    #VKontakte = "xxxx"
+    #Flickr = "xxxx"
+    #Xing = "xxxx"
+    #Snapchat = "xxxx"
+    #Soundcloud = "xxxx"
+    Spotify = "a_d718"
+    #Bandcamp = "xxxx"
+    #Paypal = "xxxx"
+    #Fivehundredpx = "xxxx"
+    #Mix = "xxxx"
+    #Goodreads = "xxxx"
+    #Lastfm = "xxxx"
+    #Foursquare = "xxxx"
+    #Hackernews = "xxxx"
+    #Kickstarter = "xxxx"
+    #Patreon = "xxxx"
+    #Steam = "xxxx"
+    #Twitch = "xxxx"
+    #Strava = "xxxx"
+    #Skype = "xxxx"
+    #Whatsapp = "xxxx"
+    #Zhihu = "xxxx"
+    #Douban = "xxxx"
+    #Angellist = "xxxx"
+    #Slidershare = "xxxx"
+    #Jsfiddle = "xxxx"
+    #Deviantart = "xxxx"
+    #Behance = "xxxx"
+    #Dribble = "xxxx"
+    #Wordpress = "xxxx"
+    #Vine = "xxxx"
+    Googlescholar = "LznJB18AAAAJ&"
+    #Researchgate = "xxxx"
+    #Mastodon = "xxxx"
+    #Thingiverse = "xxxx"
+
+[params.share]
+Twitter = true
+Facebook = true
+#Reddit = true
+Linkedin = true
+#Pinterest = true
+#HackerNews = true
+#Mix = true
+#Tumblr = true
+#VKontakte = true
+#Douban = true
+#Weibo = true
+
+# Used only for Seo schema
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+[author]
+  name = "Fastbyte01"
+
+  [params.publisher]
+    name = "Fastbyte01"
+
+    [params.publisher.logo]
+      url = "logo.png"
+      width = 127
+      height = 40
+
+  [params.logo]
+    url = "logo.png"
+    width = 127
+    height = 40
+
+  [params.image]
+    url = "cover.png"
+    width = 800
+    height = 600
+
+[params.gitalk]
+owner = ""       # Your GitHub ID
+repo = ""        # The repo to store comments
+clientId = ""    # Your client ID
+clientSecret = "" # Your client secret
+
+[params.valine]
+  enable = false
+  language = 'en'
+  appId = 'your appId'
+  appKey = 'your appKey'
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mm'
+  placeholder = 'your comments ...'
+  visitor = true
+
+[params.utterances]       # https://utteranc.es/
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+
+[params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
