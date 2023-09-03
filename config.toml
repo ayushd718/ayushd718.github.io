@@ -46,8 +46,8 @@ disqusShortname = "yourdiscussshortname"
 
   [[menu.main]]
     name = "Resources"
-    url = "/resource/"
-    url = "Resources" 
+    url = "/resources/"
+    identifier = "Resources" 
     weight = 4
 
 [params]
