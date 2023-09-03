@@ -2,6 +2,7 @@
 title: "About"
 date: 2023-08-31T18:04:11+02:00
 draft: false
+menu: "main"
 weight: 2
 ---
 # Hello!
