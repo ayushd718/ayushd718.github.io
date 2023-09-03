@@ -3,12 +3,8 @@
   {{ partial "head.html" . }}
   <body class="">
 	  <script>
-		  // Immediately set the theme class based on local storage to avoid flash
-		  var currentTheme = window.localStorage && window.localStorage.getItem('theme');
-		  var isDark = currentTheme !== 'light';
-		  if(isDark) {
-			  document.body.classList.add('dark-theme');
-		  }
+		  // Set the default mode to dark mode
+		 document.body.classList.add('dark-mode');
  	  </script>
     <div class="wrapper">
         {{ partial "header.html" . }}
