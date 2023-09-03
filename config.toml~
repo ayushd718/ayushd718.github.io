@@ -34,12 +34,12 @@ disqusShortname = "yourdiscussshortname"
   [[menu.main]]
     name = "CV"
     url = "/files/Deep_Ayush_Master_CV.pdf"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Publications"
     url = "https://scholar.google.com/citations?user=LznJB18AAAAJ%26&user=LznJB18AAAAJ"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     name = "Resources"
@@ -74,11 +74,11 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params.social]
-    #GitHub = "xxxx"
+    GitHub = "ayushd718"
     Linkedin = "ayush-deep-8b174a105"
     Twitter = "a_d718"
-    Instagram = "a_d718"
     Email   = "aydeep@student.ethz.ch"
+    Instagram = "a_d718"
     #Facebook = "xxxx"
     #Telegram = "xxxx"
     #Medium = "xxxx"
@@ -127,7 +127,7 @@ disqusShortname = "yourdiscussshortname"
     #Dribble = "xxxx"
     #Wordpress = "xxxx"
     #Vine = "xxxx"
-    Googlescholar = "LznJB18AAAAJ&"
+    #Googlescholar = "LznJB18AAAAJ&"
     #Researchgate = "xxxx"
     #Mastodon = "xxxx"
     #Thingiverse = "xxxx"
