@@ -29,21 +29,25 @@ disqusShortname = "yourdiscussshortname"
   [[menu.main]]
     name = "About"
     url = "/about/"
+    identifier = "About"
     weight = 1
 
   [[menu.main]]
     name = "CV"
     url = "/files/Deep_Ayush_Master_CV.pdf"
+    identifier = "CV"
     weight = 3
 
   [[menu.main]]
     name = "Publications"
     url = "https://scholar.google.com/citations?user=LznJB18AAAAJ%26&user=LznJB18AAAAJ"
+    identifier = "Publications"
     weight = 2
 
   [[menu.main]]
     name = "Resources"
     url = "/resources/"
+    url = "Resources" 
     weight = 4
 
 [params]
