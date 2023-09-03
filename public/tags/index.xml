@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ayush Deep</title>
-    <link>https://ayushdeep.com/tags/</link>
+    <link>ayushd718.github.io/tags/</link>
     <description>Recent content in Tags on Ayush Deep</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://ayushdeep.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="ayushd718.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
