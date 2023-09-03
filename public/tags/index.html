@@ -49,6 +49,14 @@
 
 
   <body class="">
+	  <script>
+		  
+		  var currentTheme = window.localStorage && window.localStorage.getItem('theme');
+		  var isDark = currentTheme !== 'light';
+		  if(isDark) {
+			  document.body.classList.add('dark-theme');
+		  }
+ 	  </script>
     <div class="wrapper">
         <nav class="navbar">
     <div class="container">

@@ -84,6 +84,14 @@
 
 
   <body class="">
+	  <script>
+		  
+		  var currentTheme = window.localStorage && window.localStorage.getItem('theme');
+		  var isDark = currentTheme !== 'light';
+		  if(isDark) {
+			  document.body.classList.add('dark-theme');
+		  }
+ 	  </script>
     <div class="wrapper">
         <nav class="navbar">
     <div class="container">
@@ -135,8 +143,8 @@
 <div class="post-warp archive">
     <h2 class="post-title" style="text-align:right;padding-bottom:2em">Resources</h2>
     <div class="post-content">
-        <h1 id="esop-motivation-letter-and-research-proposalmy-websitefileseth_esop_materialpdf"><a href="/my-website/files/eth_esop_material.pdf">ESOP Motivation Letter and Research Proposal</a></h1>
-<p>The application process for univeristies and scholarships often feels like a black box, where your application goes in and either a &ldquo;yes&rdquo; or a &ldquo;no&rdquo; comes out. The exact reason for getting accepted or rejected are often not elaborated upon by institutions/committees. I have made my <a href="/my-website/files/eth_esop_material.pdf">application materials</a> for ETHZ available so prospective applicants can gain some insight into what might work when applying. Hopefully this makes the process a bit more transparent.</p>
+        <h1 id="esop-motivation-letter-and-research-proposalfileseth_esop_materialpdf"><a href="/files/eth_esop_material.pdf">ESOP Motivation Letter and Research Proposal</a></h1>
+<p>The application process for univeristies and scholarships often feels like a black box, where your application goes in and either a &ldquo;yes&rdquo; or a &ldquo;no&rdquo; comes out. The exact reason for getting accepted or rejected are often not elaborated upon by institutions/committees. I have made my <a href="/files/eth_esop_material.pdf">application materials</a> for ETHZ available so prospective applicants can gain some insight into what might work when applying. Hopefully this makes the process a bit more transparent.</p>
 
     </div>
 </div>
