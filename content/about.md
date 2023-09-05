@@ -6,7 +6,7 @@ wight: 2
 ---
 # Hello!
 
-I'm currently a Master's student in [Molecular and Structural Biology](https://biol.ethz.ch/en/studies/master/master-degree-majors/structural-biology-and-biophysics.html) at [ETH Zürich](https://ethz.ch/en.html), as an [ESOP Scholar](https://ethz-foundation.ch/en/projects/topics/talents/esop/?gclid=Cj0KCQjwusunBhCYARIsAFBsUP8q6UQowaPqw-7tM-FUJn_Ox5jk2iavhWtHubO_WKrXyYrOjJcwV8saAm9EEALw_wcB). As part of my thesis in the [Riniker Lab](https://riniker.ethz.ch/), I'm working with cyclic peptides, specifically exploring their potential as therapeutics and antibiotics using molecular dynamics simulations.
+I'm currently studying in the [Molecular and Structural Biology](https://biol.ethz.ch/en/studies/master/master-degree-majors/structural-biology-and-biophysics.html) Master's program at [ETH Zürich](https://ethz.ch/en.html) as an [ESOP Scholar](https://ethz-foundation.ch/en/projects/topics/talents/esop/?gclid=Cj0KCQjwusunBhCYARIsAFBsUP8q6UQowaPqw-7tM-FUJn_Ox5jk2iavhWtHubO_WKrXyYrOjJcwV8saAm9EEALw_wcB). As part of my thesis in the [Riniker Lab](https://riniker.ethz.ch/), I'm working with cyclic peptides, specifically exploring their potential as therapeutics and antibiotics using molecular dynamics simulations.
 
 Before transitioning to computational research, my scientific background was primarily rooted in wet-lab work. I worked in the [Ban Lab](https://bangroup.ethz.ch/) as a semester project student, investigating non-canonical pathways of translation initiation. I also worked in the [Jonas Lab](https://jonaslab.ethz.ch/) as a semester project student, focusing on the early stages of ribosome biogenesis.
 
@@ -16,7 +16,7 @@ Outside the lab, I recently took part in the [Ideathon](https://www.studentbiola
 
 Music is another primary interest in my life. I've been playing the guitar for over 15 years, starting with classical/fingerstyle guitar and then progressing to different genres of electric guitar (metal, rock, funk). I have recently started playing the bass as well, and am currently a bassist in two bands, [Visual Snow](https://www.instagram.com/visualsnow___/) (rock) and [PPTA](https://www.instagram.com/ppta_band/) (funk). Currently I serve as a board memeber of [Resonance Jams](https://www.resonancejams.ch/en/), an organization that helps organize weekly jamming session and other music related events for musicians in Zürich. I also have experience giving guitar lessons from time to time to motivated friends and family. 
 
-Other than science or music, my interests also extend to cooking, where I try as many recipes as possible from [J. Kenji López-Alt](https://www.youtube.com/@JKenjiLopezAlt), my newfound hobby of photography (usually while traveling), writing in the form of D&D campaigns and poetry, reading on a wide range of topics, and more recently, playing Baldurs Gate 3 till the break of dawn.
+Other than science or music, my interests also extend to cooking, where I try as many recipes as possible from [J. Kenji López-Alt](https://www.youtube.com/@JKenjiLopezAlt), my newfound hobby of photography (usually while traveling), writing in the form of D&D campaigns and poetry, reading on a wide range of topics, and more recently, playing Baldurs Gate 3.
 
 Prior to my past two years in Zürich, I lived in the US for about ten years, in Indonesia for about two years, and in India for the first ten years of my life.  
  
