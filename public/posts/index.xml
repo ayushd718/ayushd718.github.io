@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ayush Deep</title>
-    <link>ayushd718.github.io/posts/</link>
+    <link>https://ayushd718.github.io/posts/</link>
     <description>Recent content in Posts on Ayush Deep</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 17:56:11 +0200</lastBuildDate><atom:link href="ayushd718.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 17:56:11 +0200</lastBuildDate><atom:link href="https://ayushd718.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Switching_fields</title>
-      <link>ayushd718.github.io/2023/switching_fields/</link>
+      <link>https://ayushd718.github.io/2023/switching_fields/</link>
       <pubDate>Sat, 02 Sep 2023 17:56:11 +0200</pubDate>
       
-      <guid>ayushd718.github.io/2023/switching_fields/</guid>
+      <guid>https://ayushd718.github.io/2023/switching_fields/</guid>
       <description></description>
     </item>
     

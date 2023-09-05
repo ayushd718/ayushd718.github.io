@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: ayushd718.github.io/sitemap.xml
+Sitemap: https://ayushd718.github.io/sitemap.xml
