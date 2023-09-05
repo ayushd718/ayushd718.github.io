@@ -1,4 +1,4 @@
-baseURL = "ayushd718.github.io"
+baseURL = "ayushdeep.com"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Ayush Deep"
@@ -45,9 +45,9 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
 
   [[menu.main]]
-    name = "Downloads"
-    url = "/downloads/"
-    identifier = "Downloads" 
+    name = "Resources"
+    url = "/resources/"
+    identifier = "Resources" 
     weight = 4
 
 [params]
