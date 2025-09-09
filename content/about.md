@@ -6,7 +6,7 @@ wight: 2
 ---
 # Hello!
 
-I'm Ayush, and I'm currently a PhD candidate in the [Cancer Biology](https://www.sloankettering.edu/gerstner/cancer-biology) program at [GSK/MSKCC](https://www.sloankettering.edu/gerstner). I'm currently rotating in the [Chodera Lab](https://www.choderalab.org/), where I'm looking into using molecular dynamics simulations to understand the effects of mutations in cancer relevant kinases. 
+I'm Ayush, and I'm currently a PhD candidate in the [Cancer Biology](https://www.sloankettering.edu/gerstner/cancer-biology) program at [GSK/MSKCC](https://www.sloankettering.edu/gerstner). I'm currently a joint student in the [Chodera](https://www.choderalab.org/) and [Lareau](https://clareaulab.com/) labs, where I'm using molecular dynamic and protein design methods to design binders for new classes of cancer therapeutics. My prior rotations at MSKCC were in the Zhao, Dar, and Lima labs where I used protein structure prediction to explore protein-protein and protein-ligand interactions.  
 
 Prior to starting my PhD, I obtained my Master's degree in [Molecular and Structural Biology](https://biol.ethz.ch/en/studies/master/master-degree-majors/structural-biology-and-biophysics.html) at [ETH Zürich](https://ethz.ch/en.html) as an [ESOP Scholar](https://ethz-foundation.ch/en/projects/topics/talents/esop/?gclid=Cj0KCQjwusunBhCYARIsAFBsUP8q6UQowaPqw-7tM-FUJn_Ox5jk2iavhWtHubO_WKrXyYrOjJcwV8saAm9EEALw_wcB). My thesiswork was conducted in the [Riniker Lab](https://riniker.ethz.ch/),where I worked with cyclic peptides, specifically exploring their potential as therapeutics and antibiotics using molecular dynamics simulations.
 
