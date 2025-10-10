@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://ayushd718.github.io/resources/</loc>
+      <loc>http://localhost:1313/about/</loc>
       
       <lastmod>2023-08-31T18:04:11+02:00</lastmod>
       
@@ -16,49 +16,7 @@
     </url>
   
     <url>
-      <loc>https://ayushd718.github.io/</loc>
-      
-      <lastmod>2023-09-02T17:56:11+02:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ayushd718.github.io/posts/</loc>
-      
-      <lastmod>2023-09-02T17:56:11+02:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ayushd718.github.io/2023/switching_fields/</loc>
-      
-      <lastmod>2023-09-02T17:56:11+02:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://ayushd718.github.io/about/</loc>
+      <loc>http://localhost:1313/</loc>
       
       <lastmod>2023-08-31T18:04:11+02:00</lastmod>
       
@@ -72,7 +30,9 @@
     </url>
   
     <url>
-      <loc>https://ayushd718.github.io/categories/</loc>
+      <loc>http://localhost:1313/posts/</loc>
+      
+      <lastmod>2023-08-31T18:04:11+02:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -84,7 +44,45 @@
     </url>
   
     <url>
-      <loc>https://ayushd718.github.io/tags/</loc>
+      <loc>http://localhost:1313/2023/esop-materials/</loc>
+      
+      <lastmod>2023-08-31T18:04:11+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/</loc>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/music/</loc>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/</loc>
       
       
       <changefreq>monthly</changefreq>

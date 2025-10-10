@@ -1,0 +1,42 @@
+{{ define "content" }}
+<article class="post-warp music-single">
+    <header class="post-header">
+        <h1 class="post-title">{{ .Title }}</h1>
+        {{ if not .Date.IsZero }}
+        <div class="post-meta">
+            <span class="post-time">{{ .Date.Format (.Site.Params.dateFormatToUse | default "2 January 2006") }}</span>
+        </div>
+        {{ end }}
+        {{ with .Params.description }}
+        <p class="post-subtitle">{{ . }}</p>
+        {{ end }}
+    </header>
+
+    {{ with .Params.cover }}
+    <div class="music-hero">
+        <img src="{{ . | relURL }}" alt="{{ $.Title }} cover art">
+    </div>
+    {{ end }}
+
+    {{ with .Params.platforms }}
+    <div class="music-platforms">
+        {{ range . }}
+        {{ if and (isset . "name") (isset . "url") }}
+        <a class="music-platform-link" href="{{ .url }}" target="_blank" rel="noopener">
+            {{ .name }}
+        </a>
+        {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+
+    <div class="post-nav">
+        <a href="{{ "/music/" | relLangURL }}" class="prev" rel="prev">← Back to Music</a>
+        <a href="{{ .Site.BaseURL }}" class="next">Home →</a>
+    </div>
+</article>
+{{ end }}

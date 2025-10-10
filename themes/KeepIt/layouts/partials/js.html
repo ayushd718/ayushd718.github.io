@@ -26,4 +26,16 @@
 {{ if eq ( getenv "HUGO_ENV" ) "production" }}
 {{ end }}
 
-{{ template "_internal/google_analytics_async.html" . }}
+{{ $ctx := . }}
+{{ $gaID := "" }}
+{{ with .Site.Config.Services.GoogleAnalytics }}
+  {{ $gaID = .ID }}
+{{ end }}
+{{ if not $gaID }}
+  {{ with .Site.Params.googleAnalytics }}
+    {{ $gaID = . }}
+  {{ end }}
+{{ end }}
+{{ if $gaID }}
+  {{ template "_internal/google_analytics.html" $ctx }}
+{{ end }}

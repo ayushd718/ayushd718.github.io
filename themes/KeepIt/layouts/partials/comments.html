@@ -1,6 +1,15 @@
 {{ if and .IsPage (ne .Params.comment false) -}}
   <!-- Disqus Comment System-->
-  {{- if .Site.DisqusShortname -}}
+  {{- $disqus := "" -}}
+  {{- with .Site.Config.Services.Disqus -}}
+    {{- $disqus = .Shortname -}}
+  {{- end -}}
+  {{- if not $disqus -}}
+    {{- with .Site.Params.disqusShortname -}}
+      {{- $disqus = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if and $disqus (ne $disqus "yourdiscussshortname") -}}
   <div id="disqus_thread"></div>
   <script type="text/javascript">
       (function() {
@@ -9,7 +18,7 @@
           if (window.location.hostname == "localhost")
               return;
           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          var disqus_shortname = '{{ .Site.DisqusShortname }}';
+          var disqus_shortname = '{{ $disqus }}';
           dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       })();

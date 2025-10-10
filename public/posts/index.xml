@@ -1,19 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ayush Deep</title>
-    <link>https://ayushd718.github.io/posts/</link>
-    <description>Recent content in Posts on Ayush Deep</description>
+    <title>Blog on Ayush Deep</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Blog on Ayush Deep</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 17:56:11 +0200</lastBuildDate><atom:link href="https://ayushd718.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>aydeep@student.ethz.ch (Ayush Deep)</managingEditor>
+    <webMaster>aydeep@student.ethz.ch (Ayush Deep)</webMaster>
+    <lastBuildDate>Thu, 31 Aug 2023 18:04:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>Switching_fields</title>
-      <link>https://ayushd718.github.io/2023/switching_fields/</link>
-      <pubDate>Sat, 02 Sep 2023 17:56:11 +0200</pubDate>
-      
-      <guid>https://ayushd718.github.io/2023/switching_fields/</guid>
-      <description></description>
+      <title>Motivation Letter and ESOP Research Proposal</title>
+      <link>http://localhost:1313/2023/esop-materials/</link>
+      <pubDate>Thu, 31 Aug 2023 18:04:11 +0200</pubDate>
+      <author>aydeep@student.ethz.ch (Ayush Deep)</author>
+      <guid>http://localhost:1313/2023/esop-materials/</guid>
+      <description>&lt;p&gt;The application process for universities and scholarships often feels like a black box, where your application goes in and either a &amp;ldquo;yes&amp;rdquo; or a &amp;ldquo;no&amp;rdquo; comes out. The exact reasons for getting accepted or rejected are often not elaborated upon by institutions/committees.&lt;/p&gt;
+&lt;p&gt;Below you can find my application materials for the MSc Molecular and Structural Biology program:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Download the full materials:&lt;/strong&gt; &lt;a href=&#34;http://localhost:1313/files/eth_esop_material.pdf&#34;&gt;ETHZ ESOP Motivation Letter &amp;amp; Research Proposal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hopefully this makes the process a bit more transparent and helps you craft a compelling application of your own.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

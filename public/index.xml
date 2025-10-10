@@ -1,49 +1,27 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ayush Deep on Ayush Deep</title>
-    <link>https://ayushd718.github.io/</link>
-    <description>Recent content in Ayush Deep on Ayush Deep</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 02 Sep 2023 17:56:11 +0200</lastBuildDate>
-    <atom:link href="https://ayushd718.github.io/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Resources</title>
-      <link>https://ayushd718.github.io/resources/</link>
-      <pubDate>Thu, 31 Aug 2023 18:04:11 +0200</pubDate>
-      
-      <guid>https://ayushd718.github.io/resources/</guid>
-      <description>&lt;h1 id=&#34;motivation-letter-and-esop-research-proposal&#34;&gt;Motivation Letter and ESOP Research Proposal&lt;/h1&gt;
-&lt;p&gt;The application process for universities and scholarships often feels like a black box, where your application goes in and either a &amp;ldquo;yes&amp;rdquo; or a &amp;ldquo;no&amp;rdquo; comes out. The exact reasons for getting accepted or rejected are often not elaborated upon by institutions/committees. I have made my &lt;a href=&#34;https://ayushd718.github.io/files/eth_esop_material.pdf&#34;&gt;application materials&lt;/a&gt; for ETHZ available so prospective applicants can gain some insight into what might work when applying. Hopefully this makes the process a bit more transparent.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://ayushd718.github.io/posts/</link>
-      <pubDate>Sat, 02 Sep 2023 17:56:11 +0200</pubDate>
-      
-      <guid>https://ayushd718.github.io/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ayushd718.github.io/about/</link>
-      <pubDate>Thu, 31 Aug 2023 18:04:11 +0200</pubDate>
-      
-      <guid>https://ayushd718.github.io/about/</guid>
-      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m currently studying in the &lt;a href=&#34;https://biol.ethz.ch/en/studies/master/master-degree-majors/structural-biology-and-biophysics.html&#34;&gt;Molecular and Structural Biology&lt;/a&gt; Master&amp;rsquo;s program at &lt;a href=&#34;https://ethz.ch/en.html&#34;&gt;ETH Zürich&lt;/a&gt; as an &lt;a href=&#34;https://ethz-foundation.ch/en/projects/topics/talents/esop/?gclid=Cj0KCQjwusunBhCYARIsAFBsUP8q6UQowaPqw-7tM-FUJn_Ox5jk2iavhWtHubO_WKrXyYrOjJcwV8saAm9EEALw_wcB&#34;&gt;ESOP Scholar&lt;/a&gt;. As part of my thesis in the &lt;a href=&#34;https://riniker.ethz.ch/&#34;&gt;Riniker Lab&lt;/a&gt;, I&amp;rsquo;m working with cyclic peptides, specifically exploring their potential as therapeutics and antibiotics using molecular dynamics simulations.&lt;/p&gt;
-&lt;p&gt;Before transitioning to computational research, my scientific background was primarily rooted in wet-lab work. I worked in the &lt;a href=&#34;https://bangroup.ethz.ch/&#34;&gt;Ban Lab&lt;/a&gt; as a semester project student, investigating non-canonical pathways of translation initiation. I also worked in the &lt;a href=&#34;https://jonaslab.ethz.ch/&#34;&gt;Jonas Lab&lt;/a&gt; as a semester project student, focusing on the early stages of ribosome biogenesis.&lt;/p&gt;
-&lt;p&gt;I hold a Bachelor&amp;rsquo;s degree in &lt;a href=&#34;https://www.acphs.edu/bachelors-pharmaceutical-sciences-major&#34;&gt;Pharmaceutical Sciences&lt;/a&gt; with a minor in Mathematics from &lt;a href=&#34;https://www.acphs.edu/&#34;&gt;Albany College of Pharmacy and Health Sciences&lt;/a&gt;. Before moving to Zürich to pursue my Master&amp;rsquo;s degree, I worked as a Research Assistant in the &lt;a href=&#34;https://www.wadsworth.org/senior-staff/rajendra-agrawal&#34;&gt;Agrawal Lab&lt;/a&gt; at &lt;a href=&#34;https://www.albany.edu/&#34;&gt;SUNY Albany&lt;/a&gt; in Albany, New York. There, I employed structural biology techniques (specifically cryo-EM) to understand the effects of antibiotics on the cellular translation machinery in context of the &lt;a href=&#34;https://www.nature.com/articles/s41467-021-23726-4&#34;&gt;mitochondria&lt;/a&gt; and &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2023.03.31.535098v1.abstract&#34;&gt;mycobacteria&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Outside the lab, I recently took part in the &lt;a href=&#34;https://www.studentbiolab.ch/ideathon&#34;&gt;Ideathon&lt;/a&gt;, hosted and organized by the &lt;a href=&#34;https://www.studentbiolab.ch/&#34;&gt;Student Bio Lab&lt;/a&gt; in Zürich, where our team came in 1st place for proposing innovative strategies for better design of biodegradable plastics. I also participated in the iGEM competition during my sophomore year of university as part of the &lt;a href=&#34;https://2016.igem.org/Team:Genspace&#34;&gt;Genspace team&lt;/a&gt;, a community biology lab based in Brooklyn, New York. The team won the &lt;a href=&#34;https://2016.igem.org/Team:Genspace/Measurement&#34;&gt;Best Measurement Award&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Music is another primary interest in my life. I&amp;rsquo;ve been playing the guitar for over 15 years, starting with classical/fingerstyle guitar and then progressing to different genres of electric guitar (metal, rock, funk). I have recently started playing the bass as well, and am currently a bassist in two bands, &lt;a href=&#34;https://www.instagram.com/visualsnow___/&#34;&gt;Visual Snow&lt;/a&gt; (rock) and &lt;a href=&#34;https://www.instagram.com/ppta_band/&#34;&gt;PPTA&lt;/a&gt; (funk). Currently I serve as a board memeber of &lt;a href=&#34;https://www.resonancejams.ch/en/&#34;&gt;Resonance Jams&lt;/a&gt;, an organization that helps organize weekly jamming session and other music related events for musicians in Zürich. I also have experience giving guitar lessons from time to time to motivated friends and family.&lt;/p&gt;
-&lt;p&gt;Other than science or music, my interests also extend to cooking, where I try as many recipes as possible from &lt;a href=&#34;https://www.youtube.com/@JKenjiLopezAlt&#34;&gt;J. Kenji López-Alt&lt;/a&gt;, my newfound hobby of photography (usually while traveling), writing in the form of D&amp;amp;D campaigns and poetry, reading on a wide range of topics, and more recently, playing Baldurs Gate 3.&lt;/p&gt;
-&lt;p&gt;Prior to my past two years in Zürich, I lived in the US for about ten years, in Indonesia for about two years, and in India for the first ten years of my life.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title>Ayush Deep</title>
+  
+  <link href="http://localhost:1313/index.xml" rel="self"/>
+  <link href="http://localhost:1313/"/>
+  <updated>31-08-2023T18:04:11+02:00</updated>
+  <id>http://localhost:1313/</id>
+  <author>
+    <name>Ayush Deep</name>
+    <email>aydeep@student.ethz.ch</email>
+  </author>
+  <generator>Hugo -- gohugo.io</generator>
+  <entry>
+    <title type="html"><![CDATA[Blog]]></title>
+    <link href="http://localhost:1313/posts/"/>
+    <id>http://localhost:1313/posts/</id>
+    <author>
+      <name>Ayush Deep</name>
+    </author>
+    <published>2023-08-31T18:04:11+02:00</published>
+    <updated>2023-08-31T18:04:11+02:00</updated>
+    <content type="html"><![CDATA[<h2 id="coming-soon">Coming soon!</h2>
+<p>More essays and lab notes are in the pipeline—check back shortly.</p>
+]]></content>
+  </entry>
+</feed>

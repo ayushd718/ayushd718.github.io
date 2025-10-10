@@ -1,22 +1,16 @@
-{{ define "content" }}
-<div class="post-warp music-landing">
-    <header class="post-header">
-        <h1 class="post-title">{{ .Title }}</h1>
-        {{ with .Params.description }}
-        <p class="post-subtitle">{{ . }}</p>
-        {{ end }}
-    </header>
+{{ $music := site.GetPage "section" "music" }}
+{{ if and $music (gt (len $music.RegularPages) 0) }}
+<section class="home-section home-music">
+    <div class="post-warp">
+        <header class="section-header">
+            <h2 class="post-title">Latest Music</h2>
+            {{ with $music.Params.description }}
+            <p class="post-subtitle">{{ . }}</p>
+            {{ end }}
+        </header>
 
-    {{ with .Content }}
-    <div class="post-content">
-        {{ . }}
-    </div>
-    {{ end }}
-
-    <section class="archive">
-        {{ $pages := .Pages.ByPublishDate.Reverse }}
-        {{ if $pages }}
-            {{ range $pages }}
+        <div class="archive">
+            {{ range first 3 ($music.RegularPages.ByPublishDate.Reverse) }}
             {{ $page := . }}
             <article class="archive-item music-card">
                 <div class="music-card-inner">
@@ -27,20 +21,16 @@
                         </a>
                     </div>
                     {{ end }}
-
                     <div class="music-meta">
-                        <h2 class="archive-item-title">
+                        <h3 class="archive-item-title">
                             <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
-                        </h2>
+                        </h3>
                         {{ with $page.Params.description }}
                         <p class="music-description">{{ . }}</p>
-                        {{ else }}
-                        <p class="music-description">{{ $page.Summary | plainify }}</p>
                         {{ end }}
-
                         {{ with $page.Params.platforms }}
                         <div class="music-platforms">
-                            {{ range . }}
+                            {{ range first 3 . }}
                             {{ if and (isset . "name") (isset . "url") }}
                             <a class="music-platform-link" href="{{ .url }}" target="_blank" rel="noopener">
                                 {{ .name }}
@@ -53,7 +43,11 @@
                 </div>
             </article>
             {{ end }}
-        {{ end }}
-    </section>
-</div>
+        </div>
+
+        <div class="section-footer">
+            <a class="more-link" href="{{ $music.RelPermalink }}">View all music →</a>
+        </div>
+    </div>
+</section>
 {{ end }}

@@ -4,7 +4,8 @@ defaultContentLanguage = "en"
 title = "Ayush Deep"
 theme = "KeepIt"
 
-paginate = 12
+[pagination]
+  pagerSize = 12
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
@@ -22,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
 
 # Permalinks
 [Permalinks]
-   posts = "/:year/:filename/"
+   posts = "/:year/:contentbasename/"
 
 # Menu Configuration
 
@@ -33,26 +34,33 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
 
   [[menu.main]]
+    name = "Music"
+    url = "/music/"
+    identifier = "Music"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    identifier = "Blog"
+    weight = 3
+
+  [[menu.main]]
     name = "CV"
     url = "/files/Deep_Ayush_Master_CV.pdf"
     identifier = "CV"
-    weight = 3
+    weight = 6
 
   [[menu.main]]
     name = "Publications"
     url = "https://scholar.google.com/citations?user=LznJB18AAAAJ%26&user=LznJB18AAAAJ"
     identifier = "Publications"
-    weight = 2
-
-  [[menu.main]]
-    name = "Resources"
-    url = "/resources/"
-    identifier = "Resources" 
     weight = 4
 
 [params]
     since = 2023
     author = "Ayush Deep"               # Author's name
+    authorEmail = "aydeep@student.ethz.ch"
     subtitle = "MSc Student in Biology at ETHZ"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
