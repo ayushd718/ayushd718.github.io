@@ -53,7 +53,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2023
     author = "Ayush Deep"               # Author's name
-    subtitle = "MSc Student in Biology at ETHZ"       # Subtitle
+    subtitle = "PhD Student in Cancer Biology at MSKCC"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
@@ -79,7 +79,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params.social]
     GitHub = "ayushd718"
-    Email   = "aydeep@student.ethz.ch"
+    Email   = "deepa2@mskcc.org"
     Linkedin = "ayush-deep-8b174a105"
     Twitter = "a_d718"
     Instagram = "a_d718"
